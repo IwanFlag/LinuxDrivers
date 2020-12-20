@@ -23,3 +23,4 @@ module_init(hello_init);
 
 //Ð¶ÔØÄ£¿éº¯Êý
 module_exit(hello_exit);
+1232
